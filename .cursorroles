@@ -1,0 +1,5 @@
+# Flutter MVP Delivery Rules
+- Build strictly step by step.
+- Do not create extra files or folders until asked.
+- Keep all code clean, minimal, and working.
+- Primary Brand Color: Color(0xFFE6007E).
